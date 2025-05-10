@@ -64,6 +64,9 @@ Data encryption
 Audit trails
 
 Frontend: React
+
 Backend: Spring Boot
+
 Database: MySQL
+
 API:Postman
